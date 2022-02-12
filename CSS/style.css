@@ -1,0 +1,57 @@
+
+/*zerar todas as conf*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Tamanho da pagina*/
+html{
+width: 100vw;
+height: 100vh;
+margin-top: 0.5rem;
+
+}
+
+/*Conf. Body*/
+body{
+    height: 100%; /*Tamanho de 100% da pagina*/
+    display: flex;
+    justify-content: center; /*Centralizar na Horizontal*/
+    align-items: center; /*Centralizar na Vertical*/
+  
+}
+
+/*Conf. card formulario*/
+.card {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+/*Conf. Seletor*/
+.form-select{
+    margin-bottom: 0.7rem;
+    
+}
+.form-select:hover{
+    cursor: pointer;
+    
+}
+/*Conf. h3*/
+h3{
+    margin-bottom: 2rem;
+    
+}
+
+/*Conf. Card  interno*/
+.card-body { 
+    display: flex;
+    flex-direction: column;
+}
+/*Caixa de Resposta*/
+p {
+    width: 100%;
+    height: 5rem;
+}
