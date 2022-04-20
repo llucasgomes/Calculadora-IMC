@@ -11,7 +11,7 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Pagina](#)
+- [Pagina](https://llucasgomes.github.io/Calculadora-IMC/)
 
 ## 🔖&nbsp; Sobre
 
